@@ -1,0 +1,522 @@
+
+
+.layout{
+  width: 1200px;
+  height: 1000px;
+  background-color: #e0e2e4;
+}
+.layout1{
+  border: 1px solid #ddd;
+            border-radius: 20px;
+            background-color: #fff;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            width: 350px;
+            height: 200px;
+            padding: 16px;
+            box-sizing: border-box;
+            margin: 16px;
+}
+.cat{
+  font-weight: bold;
+  position: relative;
+  top: 20px;
+}
+.cat1{
+  font-weight: bold;
+  position: relative;
+  top: 20px;
+}
+
+.board{
+  margin:10px;
+  margin-bottom: 5px;
+}
+.board1{
+  margin: 20px;
+}
+
+.card {
+  display: inline-block;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+.outer-circle {
+  width: 120px;
+  height: 120px;
+  background: conic-gradient(#4a90e2 0% 50%, #e6f0ff 50% 100%);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 10px auto;
+  position: relative;
+}
+.inner-circle {
+  width: 70px;
+  height: 70px;
+  background-color: white;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+}
+
+.center-text {
+  font-size: 16px;
+  font-weight: bold;
+  color: #333;
+  text-align: center;
+}
+
+.center-text .total {
+  display: block;
+  font-size: 14px;
+  font-weight: normal;
+  color: #777;
+}
+
+.title {
+  font-size: 16px;
+  font-weight: bold;
+  margin-bottom: 10px;
+  color: #333;
+}
+
+.btn{
+  width: 5px;
+  height: 15px;
+  position: relative;
+  top:-150px;
+  left: 170px;
+  background-color: #4a90e2;
+  border: none;
+  border-radius: 2px;
+}
+.text{
+  position: relative;
+  top:-185px;
+  left: 185px;
+}
+.btn1{
+  width: 5px;
+  height: 15px;
+  position: relative;
+  top:-185px;
+  left: 170px;
+  background-color:hsl(220, 60%, 99%) 50% 100%;
+  border: none;
+  border-radius: 2px;
+
+}
+.text1{
+  position: relative;
+  top:-220px;
+  left: 190px;
+}
+
+.layout2{
+  border: 1px solid #ddd;
+            border-radius: 20px;
+            background-color: #fff;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            width: 350px;
+            height: 200px;
+            padding: 16px;
+            box-sizing: border-box;
+            margin: 16px;
+            position: relative;
+            top: -352px;
+            left: 380px;
+        
+}
+
+
+
+.outer-circle1 {
+    width: 120px;
+    height: 120px;
+    background: conic-gradient(
+        #4caf50 0% 70%,     
+        #f44336 70% 90%,    
+        #ffeb3b 90% 100%   
+    );
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 5px auto;
+    position: relative;
+    left: -100px;
+  
+}
+
+.outer-circle:hover {
+    background: conic-gradient(
+        #388e3c 0% 70%,    
+        #d32f2f 70% 90%,   
+        #fbc02d 90% 100% 
+    );
+}
+
+.inner-circle1 {
+    width: 70px;
+    height: 70px;
+    background-color: white;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+}
+
+.center-text1 {
+    font-size: 16px;
+    font-weight: bold;
+    color: #333;
+    text-align: center;
+}
+
+.center-text .total {
+    display: block;
+    font-size: 14px;
+    font-weight: normal;
+    color: #777;
+}
+
+.title1 {
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: #333;
+}
+.btn2{
+  width: 5px;
+  height: 15px;
+  position: relative;
+  top:-110px;
+  left: 170px;
+  background-color:red;
+  border: none;
+  border-radius: 2px;
+
+}
+.text2{
+  position: relative;
+  top:-145px;
+  left: 190px;
+
+}
+.btn3{
+  width: 5px;
+  height: 15px;
+  position: relative;
+  top:-150px;
+  left: 170px;
+  background-color:#ffeb3b;
+  border: none;
+  border-radius: 2px;
+
+}
+.text3{
+  position: relative;
+  top:-185px;
+  left: 190px;
+
+}
+.btn4{
+  width: 5px;
+  height: 15px;
+  position: relative;
+  top:-190px;
+  left: 170px;
+  background-color:#f0e8e8;
+  border: none;
+  border-radius: 2px;
+
+}
+.text4{
+  position: relative;
+  top: -225px;
+  left: 190px;
+
+}
+.btn5{
+  width: 5px;
+  height: 15px;
+  position: relative;
+  top:-230px;
+  left: 170px;
+  background-color:green;
+  border: none;
+  border-radius: 2px;
+
+}
+.text5{
+  position: relative;
+  top: -263px;
+  left: 190px;
+
+}
+.layout3{
+  border: 1px solid #ddd;
+            border-radius: 8px;
+            background-color: #fff;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            width: 350px;
+            height: 200px;
+            padding: 16px;
+            box-sizing: border-box;
+            margin: 16px;
+            position: relative;
+            top: -567px;
+            left: 763px;
+            border-radius: 20px;
+  
+}
+.add-widget{
+  padding: 10px 20px;
+            background-color: blue;
+            color: white;
+            border: none;
+            border-radius: 5px;
+
+            justify-content: center; 
+            align-items: center;
+             
+
+}
+.layout4{
+  border: 1px solid #ddd;
+  border-radius: 20px;
+  background-color: #fff;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  width: 350px;
+  height: 200px;
+  padding: 16px;
+  box-sizing: border-box;
+  margin: 16px;
+  position: relative;
+  top: -530px;
+  
+
+}
+.Dashboard{
+  position: relative;
+  top: -510px;
+  left: 30px;
+  font-size: 16px;
+  font-weight: bold;
+
+}
+.graph-container {
+  width: 100px;
+  height: 80px;
+  position: relative;
+  left: 70px;
+  top: -30px;
+
+}
+
+.bar {
+  width: 15px;
+  background-color:#f2eaea;
+  position: absolute;
+  bottom: 0;
+}
+
+.bar1 {
+  height: 20px;
+  left: 5px;
+}
+
+.bar2 {
+  height: 40px;
+  left: 30px;
+}
+
+.bar3 {
+  height: 60px;
+  left: 55px;
+}
+
+.bar4 {
+  height: 50px;
+  left: 80px;
+}
+
+.bar5 {
+  height: 80px;
+  left: 105px;
+}
+.graph-text{
+  margin-top: -10px;
+  font-size: 16px;
+  font-weight: bold;
+  
+}
+.data{
+  position: relative;
+  top: 100px;
+  left: 65px;
+}
+
+.layout5{
+  border: 1px solid #ddd;
+  border-radius: 20px;
+  background-color: #fff;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  width: 350px;
+  height: 200px;
+  padding: 16px;
+  box-sizing: border-box;
+  margin: 16px;
+  position: relative;
+  top: -745px;
+  left: 380px;
+}
+.graph-text1{
+  margin-top: -10px;
+  font-size: 16px;
+  font-weight: bold;
+}
+.graph-container1 {
+  width: 100px;
+  height: 80px;
+  position: relative;
+  left: 70px;
+  top: -34px;
+
+}
+
+.bar {
+  width: 15px;
+  background-color:#f2eaea;
+  position: absolute;
+  bottom: 0;
+}
+
+.bar6 {
+  height: 20px;
+  left: 5px;
+}
+
+.bar7 {
+  height: 40px;
+  left: 30px;
+}
+
+.bar8 {
+  height: 60px;
+  left: 55px;
+}
+
+.bar9 {
+  height: 50px;
+  left: 80px;
+}
+
+.bar10 {
+  height: 80px;
+  left: 105px;
+}
+.data1{
+  position: relative;
+  top: 90px;
+  left: 65px;
+
+}
+.layout6{
+  border: 1px solid #ddd;
+  border-radius: 20px;
+  background-color: #fff;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  width: 350px;
+  height: 200px;
+  padding: 16px;
+  box-sizing: border-box;
+  margin: 16px;
+  position: relative;
+  top: -962px;
+  left: 770px;
+}
+.add-widget1{
+  padding: 10px 20px;
+  background-color: blue;
+  color: white;
+  border: none;
+  border-radius: 5px;
+
+  justify-content: center; 
+  align-items: center;
+   
+
+}
+
+/* Addwidget.css */
+.form-container {
+  max-width: 500px;
+  margin: 50px auto;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.form-title {
+  text-align: center;
+  font-size: 24px;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+}
+
+.form-label {
+  margin-bottom: 5px;
+  font-weight: bold;
+  color: #555;
+}
+
+.form-input,
+.form-textarea {
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.form-input:focus,
+.form-textarea:focus {
+  border-color: #007bff;
+  outline: none;
+}
+
+.form-textarea {
+  height: 100px;
+  resize: vertical;
+}
+
+.form-button {
+  padding: 10px 20px;
+  font-size: 18px;
+  color: #fff;
+  background-color: #007bff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.form-button:hover {
+  background-color: #0056b3;
+}
